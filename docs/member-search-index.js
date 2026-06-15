@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"TeamBassirouMouhamadou","l":"Configure()"},{"p":"<Unnamed>","c":"TeamBassirouMouhamadou","l":"takeStep()"},{"p":"<Unnamed>","c":"TeamBassirouMouhamadou","l":"TeamBassirouMouhamadou()","url":"%3Cinit%3E()"}]
