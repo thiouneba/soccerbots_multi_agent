@@ -39,7 +39,7 @@ This strategy proved robust enough to **outperform most competing teams** during
 
 ## Results
 
-![Simulation result](https://github.com/thiouneEtu/soccer_bots_ia/blob/main/resultImg.PNG)
+![Simulation result](https://github.com/thiouneba/soccerbots_multi_agent/blob/main/resultImg.PNG)
 
 ---
 
